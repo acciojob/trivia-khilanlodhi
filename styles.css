@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #eefaf8;
+    }
+
+    h2 {
+      color: #2c3e50;
+    }
+
+    .question {
+      margin-bottom: 20px;
+    }
+
+    .options label {
+      display: block;
+      margin: 5px 0;
+    }
+
+    blockquote {
+      max-width: 600px;
+      margin: 10px;
+      padding: 15px;
+      border-left: 8px solid green;
+      background-color: #f8fffe;
+      font-weight: bold;
+    }
+
+    cite {
+      display: block;
+      margin-top: 10px;
+      font-size: 0.9em;
+      color: #555;
+    }
